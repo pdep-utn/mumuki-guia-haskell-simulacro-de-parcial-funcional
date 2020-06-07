@@ -1,11 +1,11 @@
 ---
 locale: es
 tags: []
-layout: input_right
-editor: code
-type: problem
+layout: input_bottom
+editor: 0
+type: playground
 extra_visible: true
 teacher_info: ''
 manual_evaluation: false
 choices: []
-name: Nuevo ejercicio
+name: Probá acá si querés
